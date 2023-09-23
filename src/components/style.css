@@ -1,0 +1,24 @@
+body{
+     /* background-color: aquamarine; */
+     background: radial-gradient(circle, #24acbb, #d6dddd);
+}
+p button{
+     background: rgb(34, 183, 188);
+     border-radius: 5px;
+     border: 1px solid transparent;
+    margin: 5px;
+}
+
+.button{
+     background: rgb(34, 183, 188);
+     border: 1px solid transparent;
+}
+
+
+
+.header{
+     margin-top: 30px;
+     border-radius: 10px;
+     background: radial-gradient(circle, #24acbb, #d6dddd);
+     border: 1px solid ;
+}
